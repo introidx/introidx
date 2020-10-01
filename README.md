@@ -7,7 +7,7 @@
 
 - 📝 I regulary create post on [https://www.instagram.com/introidx/](https://www.instagram.com/introidx/)
 
-- 📫 How to reach me **prakash.r19500@gmail.com**
+- 📫 Reach me at **prakash.r19500@gmail.com**
 
 - ⚡ Fun fact **I am a Tech Memer**
 
