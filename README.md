@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introidx" alt="introidx" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://introidx.github.io](https://introidx.github.io)
+- 👨‍💻 Here's my Portfolio website [https://introidx.github.io](https://introidx.github.io)
 
 - 📝 I regulary create post on [https://www.instagram.com/introidx/](https://www.instagram.com/introidx/)
 
