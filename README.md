@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://introidx.github.io](https://introidx.github.io)
 
-- 📝 I regulary write articles on [https://www.instagram.com/introidx/](https://www.instagram.com/introidx/)
+- 📝 I regulary create post on [https://www.instagram.com/introidx/](https://www.instagram.com/introidx/)
 
 - 📫 How to reach me **prakash.r19500@gmail.com**
 
