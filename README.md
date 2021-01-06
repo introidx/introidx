@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introidx" alt="introidx" /> </p>
 
-- 👨‍💻 Here's my Portfolio website [https://introidx.github.io](https://introidx.github.io)
-
-- 📝 I regulary create post on [https://www.instagram.com/introidx/](https://www.instagram.com/introidx/)
-
 - 📫 Reach me at **prakash.r19500@gmail.com**
-
-- ⚡ Fun fact **I am a Tech Memer**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
