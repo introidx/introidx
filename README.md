@@ -13,7 +13,7 @@
 <a href="https://www.leetcode.com/introidx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="introidx" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/introidx/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="introidx/profile" height="30" width="40" /></a>
 </p>
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=introidx&layout=compact" alt="introidx" /></p>
 
