@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=introidx&show_icons=true" alt="introidx" /></p>
 
+![snake gif](https://github.com/introidx/introidx/blob/output/github-contribution-grid-snake.gif)
+
 
