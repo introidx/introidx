@@ -7,20 +7,15 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/introidx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="introidx" height="30" width="40" /></a>
-<a href="https://twitter.com/introidx" target="blank"><img align="center" src="twitter.png" alt="introidx" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/prakash-introidx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakash-introidx" height="30" width="40" /></a>
-<a href="https://instagram.com/introidx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="introidx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/introidx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="introidx" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/introidx/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="introidx/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/introidx" target="blank"><img align="center" src="twitter.png" alt="introidx" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/prakash-introidx" target="blank"><img align="center" src="linkedin.png" alt="prakash-introidx" height="40" width="40" /></a>
+<a href="https://instagram.com/introidx" target="blank"><img align="center" src="instagram.png" alt="introidx" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.introid.memetemp&hl=en_IN&gl=US" target="blank"><img align="center" src="google-play.png" alt="introidx" height="40" width="40" /></a>
 </p>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=introidx&layout=compact" alt="introidx" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=introidx&show_icons=true" alt="introidx" /></p>
 
 ![snake gif](https://github.com/introidx/introidx/blob/output/github-contribution-grid-snake.gif)
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/ruslan-babkin" title="Ruslan Babkin">Ruslan Babkin</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
