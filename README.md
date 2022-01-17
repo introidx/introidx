@@ -20,13 +20,8 @@
  
  
 📈 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
-
- ![Github stats](https://github-readme-stats.vercel.app/api?username=introidx)
+![Github stats](https://github-readme-stats.vercel.app/api?username=introidx)
  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=introidx&layout=compact" alt="introidx" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=introidx&show_icons=true" alt="introidx" /></p>
 
 ![snake gif](https://github.com/introidx/introidx/blob/output/github-contribution-grid-snake.gif)
 
