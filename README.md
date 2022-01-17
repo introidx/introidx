@@ -19,6 +19,11 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=introidx&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=introidx)  
  
+ ---
+ 
+
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=introidx&theme=react-dark)](https://github.com/introidx/github-readme-activity-graph)
+
  
 
 ![snake gif](https://github.com/introidx/introidx/blob/output/github-contribution-grid-snake.gif)
