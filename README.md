@@ -7,9 +7,9 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/introidx" target="blank"><img align="center" src="twitter.png" alt="introidx" height="40" width="40" /></a>
+<a href="https://twitter.com/prkofc" target="blank"><img align="center" src="twitter.png" alt="introidx" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/prakash-introidx" target="blank"><img align="center" src="linkedin.png" alt="prakash-introidx" height="40" width="40" /></a>
-<a href="https://instagram.com/introidx" target="blank"><img align="center" src="instagram.png" alt="introidx" height="40" width="40" /></a>
+<a href="https://instagram.com/prkofc" target="blank"><img align="center" src="instagram.png" alt="introidx" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.introid.memetemp&hl=en_IN&gl=US" target="blank"><img align="center" src="google-play.png" alt="introidx" height="40" width="40" /></a>
 </p>
 <br>
