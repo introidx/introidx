@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Ranjan</h1>
-<h3 align="center">Android & Full Stack Web Developer</h3>
+<h3 align="center">Backend Softwere Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introidx" alt="introidx" /> </p>
 
