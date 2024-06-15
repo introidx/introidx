@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakash Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">SDE (Backend) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introidx" alt="introidx" /> </p>
